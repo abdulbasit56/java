@@ -1,0 +1,10 @@
+khan,2600
+ali,1000
+izan,450
+wali,300
+ali,200
+jon,200
+ron,200
+king2,200
+but,100
+king,50
